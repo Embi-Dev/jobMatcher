@@ -77,7 +77,7 @@ Output Format:
 }
 
 RULES:
-1. SKILLS: Normalize (JS→JavaScript) 
+1. SKILLS: Normalize (JS→[JavaScript], HTML/CSS→["HTML, "CSS"]) 
 2. EDUCATION: Format as "degree field" (e.g. "BS Computer Science") - Array
 3. SOFT SKILLS : Normalize : ( Strong collaboration and communication abilities ) -> ["Strong Collaboration Ability", "Strong coomunication ability" ]
 3. EXPERIENCES: Normalize : (" 2 years of expereicne Developing full-stack applications using Node.js and Python for backend, React and CSS for frontend") -> ["2 years of expereicne Developing full-stack applications using Node.js", "2 years of expereicne Developing full-stack applications using Python", "2 years of designing frontend using react and css"]- Array
